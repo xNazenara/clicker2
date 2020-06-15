@@ -1,0 +1,12 @@
+[
+    {
+        name: "dima",
+        yeasOld: 25,
+        height: 177
+    },
+    {
+        name: "elisey",
+        yearsOld: 13,
+        height: 165
+    }
+]
