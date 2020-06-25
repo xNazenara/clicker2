@@ -9,7 +9,7 @@ app.use(cors())
 app.use(bodyParser.json())
 
 const arr = [
-  'clicker', 'click tester', 'test your cps'
+  'title', 'title2', 'title3'
 ]
 
 app.get('/title', (req, res) => {
